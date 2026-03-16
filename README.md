@@ -31,10 +31,10 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo
 
-- [✅] [Insert a screenshot of your fixed, winning game here]
+- [✅] [[Insert a screenshot of your fixed, winning game here](https://imgur.com/w0jttE3)]
 
 ## 🚀 Stretch Features
 
-- [✅] [Challenge 1[https://imgur.com/a/irjf2Vq]]
+- [✅] [[Challenge 1](https://imgur.com/19Hush1)]
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
